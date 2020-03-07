@@ -1,6 +1,6 @@
 # neologist
 
-for now markov-chain inventing new words.
+for now just a markov-chain inventing new words.
 
 Needs a list of a few hundreds words to abstract the probabilities.
 Produces a lot of bullshit.
