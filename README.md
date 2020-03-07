@@ -13,7 +13,7 @@ Build using Python 3.8. Should work with every 3.x version, but don't quote me o
 - Set OUTPUT_FILE and set SAVING to True to save the generated words to disk.
 - Set MONOVOV (monovovel) to True to make the generator use only one vovel in the word: markov-chain -> markav-chan
 
-markov-chain hand-selected output using 500 most common german words:
+markov-chain hand-selected output using 500 most common german words:    
 deinsein    
 bilomiten    
 gein    
